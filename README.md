@@ -1,3 +1,3 @@
-# miso - _M_ake _It_ _S_O
+# miso - Make It SO
 
 Agent for the rest of us.
