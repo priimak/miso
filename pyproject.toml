@@ -1,0 +1,17 @@
+[project]
+name = "miso"
+version = "0.1.0"
+description = "Make It So - agent"
+readme = "README.md"
+authors = [
+    { name = "Dmitri Priimak", email = "priimak@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[project.scripts]
+miso = "miso:main"
+
+[build-system]
+requires = ["uv_build>=0.12.3,<0.13.0"]
+build-backend = "uv_build"
